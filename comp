@@ -1,1 +1,0 @@
-gcc -Wall -Wextra -Werror filit.c gnl/libft/ft_strjoin.c gnl/libft/ft_strnew.c gnl/libft/ft_strlen.c gnl/get_next_line.c gnl/libft/ft_strchr.c gnl/libft/ft_strdel.c gnl/libft/ft_putendl.c gnl/libft/ft_putstr.c gnl/libft/ft_putchar.c gnl/libft/ft_putnbr.c fill_figures.c gnl/libft/ft_itoa.c gnl/libft/ft_bzero.c -I filit.h validation_check.c
